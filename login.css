@@ -1,0 +1,54 @@
+*{
+    padding: 0%;
+    margin: auto;
+}
+body{
+    background: lightslategray;
+}
+nav{
+    background: #000;
+}
+nav h1 a{
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    font-size: 35px;
+}
+ul{
+    text-align: right;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+ul li{
+    display: inline-block;
+    padding: 2%;
+}
+ul li a{
+    text-decoration: none;
+    
+}
+marquee{
+    font-size: 30px;
+    background: red;
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+div{
+    text-align: center;
+    padding: 10%;
+}
+div h1{
+    font: 5em sans-serif;
+}
+div a{
+   text-decoration: none;
+   font-size: 75px;
+   padding-top: 10%; 
+}
+button{
+    background: #3c0c60;
+}
+button :hover{
+    color: aquamarine;
+}

@@ -1,0 +1,25 @@
+*{
+    margin: auto;
+    padding: 0%;
+}
+body{
+    background: lightblue;
+}
+div{
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+div h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+div li{
+    padding: 2%;
+    font-size: 20px;
+}
+div p{
+    padding: 1%;
+    padding-top: 5%;
+    font-size: 15px;
+}
